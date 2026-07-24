@@ -30,7 +30,7 @@
 
 <p><b>Developer</b></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Cyb4819-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyb4819)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishnangshubanerji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnangshu-banerji-5627a0418/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Cyb4819.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://cyb4819.netlify.app/)
 <br>
 
