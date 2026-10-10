@@ -46,7 +46,7 @@ ROWS = [
     ("kv", "AI / ML", "LangChain, Multi-Agent Systems, RAG, Unsloth"),
     ("kv", "LLMs & Data", "GGUF/Quantization, Vector DBs, Prompting"),
     ("kv", "Languages", "Python, JavaScript, SQL"),
-    ("kv", "Frameworks", "FastAPI, Django, Node.js, React.js, Next.js"),
+    ("kv", "Frameworks", "FastAPI, Node.js, React.js, Next.js"),
     ("kv", "Databases", "MySQL, PostgreSQL"),
     ("gap",),
     ("sec", "Highlights"),
